@@ -34,7 +34,7 @@ In this case, the motor output shaft was **incompatible with the splined input s
 ### External Geometry
 The coupling is a cylindrical adapter designed to fit within the dyno drivetrain envelope while maintaining sufficient wall thickness for torque transmission.
 
-<img width="761" height="530" alt="Image" src="https://github.com/user-attachments/assets/56384258-5465-4cdb-b6e9-66e65fa177c1" />
+ADD Photo here of full coupling
 
 ### Internal Features
 Internal splines were modeled to match the mating shaft profile and provide reliable torque transfer with adequate engagement length.
