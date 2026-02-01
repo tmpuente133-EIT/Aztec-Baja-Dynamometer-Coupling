@@ -3,7 +3,7 @@
 ## Overview
 This project involved the design of a **custom mechanical coupling** to interface an electric motor with an existing **splined drivetrain shaft** for a student-built dynamometer supporting the **Aztec Baja SAE Racing Team**.
 
-![Full drivetrain assembly overview](images/assembly_overview.png)
+<img src= "images/f14d2fc8-c566-431c-b095-c544c2c5b275.png" alt="Aztec Baja Dynamometer Coupling" width="375">
 
 The primary challenge was adapting **non-standard, pre-existing components** into a reliable, manufacturable torque-transmitting assembly while maintaining alignment and minimizing drivetrain loads.
 
@@ -39,7 +39,7 @@ The coupling is a cylindrical adapter designed to fit within the dyno drivetrain
 ### Internal Features
 Internal splines were modeled to match the mating shaft profile and provide reliable torque transfer with adequate engagement length.
 
-![Coupling section view showing internal splines](images/coupling_section.png)
+<img src= "images/a6877515-bdac-4619-8e67-4b488108c0f5.png" alt="Aztec Baja Dynamometer Coupling section" width="375">
 
 A split-section view was used to verify spline engagement, wall thickness, and internal clearances.
 
@@ -49,7 +49,7 @@ A split-section view was used to verify spline engagement, wall thickness, and i
 
 The coupling installs inline between the motor and shaft assembly:
 
-![Exploded assembly showing motor, coupling, and shaft](images/exploded_view.png)
+<img src= "images/image.png" alt="Exploded View" width="375>
 
 1. The motor shaft engages the coupling bore  
 2. Internal splines mate with the dyno shaft  
