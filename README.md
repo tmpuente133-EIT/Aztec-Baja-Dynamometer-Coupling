@@ -34,7 +34,7 @@ In this case, the motor output shaft was **incompatible with the splined input s
 ### External Geometry
 The coupling is a cylindrical adapter designed to fit within the dyno drivetrain envelope while maintaining sufficient wall thickness for torque transmission.
 
-img src="images/3f8f5741-0d48-47b2-9ef0-7c252924c6d2.png" alt="Aztec Baja Dynamometer Coupling" width="375">
+<img src="images/3f8f5741-0d48-47b2-9ef0-7c252924c6d2.png" alt="Aztec Baja Dynamometer Coupling" width="375">
 
 ### Internal Features
 Internal splines were modeled to match the mating shaft profile and provide reliable torque transfer with adequate engagement length.
