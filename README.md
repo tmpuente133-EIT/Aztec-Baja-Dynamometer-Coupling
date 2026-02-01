@@ -46,16 +46,15 @@ A split-section view was used to verify spline engagement, wall thickness, and i
 ---
 
 ## CAD & Modeling
-- Designed entirely in **SolidWorks**
-- Included:
+Designed entirely in **SolidWorks** and included:
   - Fully constrained part models  
   - Section views to verify spline engagement  
   - Exploded assembly views for documentation  
 
 Design iterations focused on:
-- Spline engagement length  
-- Wall thickness for torque capacity  
-- Manufacturability using conventional machining processes  
+  - Spline engagement length  
+  - Wall thickness for torque capacity  
+  - Manufacturability using conventional machining processes  
 
 ---
 
