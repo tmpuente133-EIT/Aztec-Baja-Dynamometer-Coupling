@@ -45,23 +45,6 @@ A split-section view was used to verify spline engagement, wall thickness, and i
 
 ---
 
-## Assembly Integration
-
-The coupling installs inline between the motor and shaft assembly:
-
-<img src= "images/image.png" alt="Exploded View" width="375>
-
-1. The motor shaft engages the coupling bore  
-2. Internal splines mate with the dyno shaft  
-3. The shaft is supported by bearings mounted to a rigid frame  
-4. Torque is transmitted axially through the coupling into the drivetrain  
-
-This configuration minimizes bending loads on the motor while preserving alignment.
-
-![Installed coupling in dyno frame](images/installed_coupling.png)
-
----
-
 ## CAD & Modeling
 - Designed entirely in **SolidWorks**
 - Included:
@@ -75,6 +58,19 @@ Design iterations focused on:
 - Manufacturability using conventional machining processes  
 
 ---
+
+## Assembly Integration
+
+The coupling installs inline between the motor and shaft assembly:
+
+<img src= "images/image.png" alt="Aztec Baja Dynamometer Coupling" width="375">
+
+1. The motor shaft engages the coupling bore  
+2. Internal splines mate with the dyno shaft  
+3. The shaft is supported by bearings mounted to a rigid frame  
+4. Torque is transmitted axially through the coupling into the drivetrain  
+
+This configuration minimizes bending loads on the motor while preserving alignment.
 
 ## Engineering Considerations
 - Torque transmission through involute splines  
@@ -90,17 +86,3 @@ Design iterations focused on:
 - Eliminated the need for hard-to-source commercial adapters  
 - Provided a reusable solution adaptable to future dyno configurations  
 - Demonstrated applied mechanical design under real-world constraints  
-
----
-
-## Skills Demonstrated
-- Mechanical design under interface uncertainty  
-- CAD for power transmission components  
-- Design for manufacturability  
-- Reverse engineering and component inference  
-- Engineering communication and documentation  
-
----
-
-## Acknowledgments
-Designed in support of the **Aztec Baja SAE Racing Team** dynamometer project.
